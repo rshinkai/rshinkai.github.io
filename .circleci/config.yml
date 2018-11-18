@@ -31,7 +31,7 @@ jobs:
               git clone https://github.com/rshinkai/rshinkai.github.io.git
               ls
               cp -rp public/* rshinkai.github.io/
-              cd ryoma-rshinkai.github.io
+              cd rshinkai.github.io
               ls
               git remote set-url origin https://github.com/rshinkai/rshinkai.github.io.git
               git add .
